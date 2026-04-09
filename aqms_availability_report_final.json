@@ -1,0 +1,2460 @@
+{
+  "Sheet1": [
+    {
+      "stncode": "DXAQMS-1",
+      "location": "WBPCB Office, Saltlake",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-1_WBPCB%20Office%2C%20Saltlake.csv",
+      "file": "DXAQMS-1_WBPCB%20Office%2C%20Saltlake",
+      "filenumber": 1
+    },
+    {
+      "stncode": "DXAQMS-4",
+      "location": "Vidyasagar University",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-4_Vidyasagar%20University.csv",
+      "file": "DXAQMS-4_Vidyasagar%20University",
+      "filenumber": 2
+    },
+    {
+      "stncode": "DXAQMS-5",
+      "location": "Sidho-Kanho-Birsha University",
+      "district": "Purulia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-5_Sidho-Kanho-Birsha%20University.csv",
+      "file": "DXAQMS-5_Sidho-Kanho-Birsha%20University",
+      "filenumber": 3
+    },
+    {
+      "stncode": "DXAQMS-13",
+      "location": "Sector V Industrial Township Authority, Nabadiganta Bhavan",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-13_Sector%20V%20Industrial%20Township%20Authority%2C%20Nabadiganta%20Bhavan.csv",
+      "file": "DXAQMS-13_Sector%20V%20Industrial%20Township%20Authority%2C%20Nabadiganta%20Bhavan",
+      "filenumber": 4
+    },
+    {
+      "stncode": "DXAQMS-7",
+      "location": "West Bengal State University",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-7_West%20Bengal%20State%20University.csv",
+      "file": "DXAQMS-7_West%20Bengal%20State%20University",
+      "filenumber": 5
+    },
+    {
+      "stncode": "DXAQMS-8",
+      "location": "Bandel Thermal Power station, WBPDCL, Bandel",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-8_Bandel%20Thermal%20Power%20station%2C%20WBPDCL%2C%20Bandel.csv",
+      "file": "DXAQMS-8_Bandel%20Thermal%20Power%20station%2C%20WBPDCL%2C%20Bandel",
+      "filenumber": 6
+    },
+    {
+      "stncode": "DXAQMS-2",
+      "location": "Jhargram Raj College, Jhargram",
+      "district": "Jhargram",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-2_Jhargram%20Raj%20College%2C%20Jhargram.csv",
+      "file": "DXAQMS-2_Jhargram%20Raj%20College%2C%20Jhargram",
+      "filenumber": 7
+    },
+    {
+      "stncode": "DXAQMS-9",
+      "location": "Durgapur WBPCB Office",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-9_Durgapur%20WBPCB%20Office.csv",
+      "file": "DXAQMS-9_Durgapur%20WBPCB%20Office",
+      "filenumber": 8
+    },
+    {
+      "stncode": "DXAQMS-10",
+      "location": "Extended Campus of BCKV, Burdwan",
+      "district": "Purba Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-10_Extended%20Campus%20of%20BCKV%2C%20Burdwan.csv",
+      "file": "DXAQMS-10_Extended%20Campus%20of%20BCKV%2C%20Burdwan",
+      "filenumber": 9
+    },
+    {
+      "stncode": "DXAQMS-11",
+      "location": "Leather Complex",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-11_Leather%20Complex.csv",
+      "file": "DXAQMS-11_Leather%20Complex",
+      "filenumber": 10
+    },
+    {
+      "stncode": "DXAQMS-6",
+      "location": "Bidhan Chandra Krishi Viswavidyalaya",
+      "district": "Nadia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-6_Bidhan%20Chandra%20Krishi%20Viswavidyalaya.csv",
+      "file": "DXAQMS-6_Bidhan%20Chandra%20Krishi%20Viswavidyalaya",
+      "filenumber": 11
+    },
+    {
+      "stncode": "DXAQMS-14",
+      "location": "Shahid Matangini Hazra Govt College for Women",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-14_Shahid%20Matangini%20Hazra%20Govt%20College%20for%20Women.csv",
+      "file": "DXAQMS-14_Shahid%20Matangini%20Hazra%20Govt%20College%20for%20Women",
+      "filenumber": 12
+    },
+    {
+      "stncode": "DXAQMS-12",
+      "location": "Burdwan University",
+      "district": "Purba Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-12_Burdwan%20University.csv",
+      "file": "DXAQMS-12_Burdwan%20University",
+      "filenumber": 13
+    },
+    {
+      "stncode": "DXAQMS-19",
+      "location": "Diamond Harbour Women's University",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-19_Diamond%20Harbour%20Women%27s%20University.csv",
+      "file": "DXAQMS-19_Diamond%20Harbour%20Women%27s%20University",
+      "filenumber": 14
+    },
+    {
+      "stncode": "DXAQMS-16",
+      "location": "WBPCB Office, Malda",
+      "district": "Malda",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-16_WBPCB%20Office%2C%20Malda.csv",
+      "file": "DXAQMS-16_WBPCB%20Office%2C%20Malda",
+      "filenumber": 15
+    },
+    {
+      "stncode": "DXAQMS-22",
+      "location": "Siliguri WBPCB Office",
+      "district": "Darjeeling",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-22_Siliguri%20WBPCB%20Office.csv",
+      "file": "DXAQMS-22_Siliguri%20WBPCB%20Office",
+      "filenumber": 16
+    },
+    {
+      "stncode": "DXAQMS-21",
+      "location": "University of North Bengal",
+      "district": "Darjeeling",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-21_University%20of%20North%20Bengal.csv",
+      "file": "DXAQMS-21_University%20of%20North%20Bengal",
+      "filenumber": 17
+    },
+    {
+      "stncode": "DXAQMS-24",
+      "location": "Kazi Nazrul University, Asansol",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-24_Kazi%20Nazrul%20University%2C%20Asansol.csv",
+      "file": "DXAQMS-24_Kazi%20Nazrul%20University%2C%20Asansol",
+      "filenumber": 18
+    },
+    {
+      "stncode": "DXAQMS-23",
+      "location": "Asansol WBPCB Office",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-23_Asansol%20WBPCB%20Office.csv",
+      "file": "DXAQMS-23_Asansol%20WBPCB%20Office",
+      "filenumber": 19
+    },
+    {
+      "stncode": "DXAQMS-17",
+      "location": "Raiganj DM Office",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-17_Raiganj%20DM%20Office.csv",
+      "file": "DXAQMS-17_Raiganj%20DM%20Office",
+      "filenumber": 20
+    },
+    {
+      "stncode": "DXAQMS-20",
+      "location": "Coochbehar Panchanan Barma University",
+      "district": "Coochbehar",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-20_Coochbehar%20Panchanan%20Barma%20University.csv",
+      "file": "DXAQMS-20_Coochbehar%20Panchanan%20Barma%20University",
+      "filenumber": 21
+    },
+    {
+      "stncode": "DXAQMS-18",
+      "location": "District Police Office Building, Dakshin Dinajpur",
+      "district": "Dakshin Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-18_District%20Police%20Office%20Building%2C%20Dakshin%20Dinajpur.csv",
+      "file": "DXAQMS-18_District%20Police%20Office%20Building%2C%20Dakshin%20Dinajpur",
+      "filenumber": 22
+    },
+    {
+      "stncode": "DXAQMS-26",
+      "location": "Kalimpong Police Station",
+      "district": "Kalimpong",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-26_Kalimpong%20Police%20Station.csv",
+      "file": "DXAQMS-26_Kalimpong%20Police%20Station",
+      "filenumber": 23
+    },
+    {
+      "stncode": "DXAQMS-28",
+      "location": "Durgapur Govt. College",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-28_Durgapur%20Govt.%20College.csv",
+      "file": "DXAQMS-28_Durgapur%20Govt.%20College",
+      "filenumber": 24
+    },
+    {
+      "stncode": "DXAQMS-72",
+      "location": "New Town Kolkata Development Authority (A-1)- HIDCO",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-72_New%20Town%20Kolkata%20Development%20Authority%20%28A-1%29-%20HIDCO.csv",
+      "file": "DXAQMS-72_New%20Town%20Kolkata%20Development%20Authority%20%28A-1%29-%20HIDCO",
+      "filenumber": 25
+    },
+    {
+      "stncode": "DXAQMS-29",
+      "location": "Darjeeling Police Town Office Complex, Chowk Bazaar",
+      "district": "Darjeeling",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-29_Darjeeling%20Police%20Town%20Office%20Complex%2C%20Chowk%20Bazaar.csv",
+      "file": "DXAQMS-29_Darjeeling%20Police%20Town%20Office%20Complex%2C%20Chowk%20Bazaar",
+      "filenumber": 26
+    },
+    {
+      "stncode": "DXAQMS-32",
+      "location": "Abdarpur Guest House, WBPDCL",
+      "district": "Birbhum",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-32_Abdarpur%20Guest%20House%2C%20WBPDCL.csv",
+      "file": "DXAQMS-32_Abdarpur%20Guest%20House%2C%20WBPDCL",
+      "filenumber": 27
+    },
+    {
+      "stncode": "DXAQMS-30",
+      "location": "Alipurduar District Police Lines",
+      "district": "Alipurduar",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-30_Alipurduar%20District%20Police%20Lines.csv",
+      "file": "DXAQMS-30_Alipurduar%20District%20Police%20Lines",
+      "filenumber": 28
+    },
+    {
+      "stncode": "DXAQMS-31",
+      "location": "Krishnath College, Murshidabad",
+      "district": "Murshidabad",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-31_Krishnath%20College%2C%20Murshidabad.csv",
+      "file": "DXAQMS-31_Krishnath%20College%2C%20Murshidabad",
+      "filenumber": 29
+    },
+    {
+      "stncode": "DXAQMS-27",
+      "location": "University of North Bengal, Jalpaiguri",
+      "district": "Jalpaiguri",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-27_University%20of%20North%20Bengal%2C%20Jalpaiguri.csv",
+      "file": "DXAQMS-27_University%20of%20North%20Bengal%2C%20Jalpaiguri",
+      "filenumber": 30
+    },
+    {
+      "stncode": "DXAQMS-33",
+      "location": "Panskura Banamali College, Panskura R.S, Purba Medinipur",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-33_Panskura%20Banamali%20College%2C%20Panskura%20R.S%2C%20Purba%20Medinipur.csv",
+      "file": "DXAQMS-33_Panskura%20Banamali%20College%2C%20Panskura%20R.S%2C%20Purba%20Medinipur",
+      "filenumber": 31
+    },
+    {
+      "stncode": "DXAQMS-35",
+      "location": "Bankura Christian College, Bankura",
+      "district": "Bankura",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-35_Bankura%20Christian%20College%2C%20Bankura.csv",
+      "file": "DXAQMS-35_Bankura%20Christian%20College%2C%20Bankura",
+      "filenumber": 32
+    },
+    {
+      "stncode": "DXAQMS-37",
+      "location": "​Serampore college, Hoogly",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-37_%E2%80%8BSerampore%20college%2C%20Hoogly.csv",
+      "file": "DXAQMS-37_%E2%80%8BSerampore%20college%2C%20Hoogly",
+      "filenumber": 33
+    },
+    {
+      "stncode": "DXAQMS-38",
+      "location": "VIVEKANANDA COLLEGE FOR WOMEN, BARISHA",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-38_VIVEKANANDA%20COLLEGE%20FOR%20WOMEN%2C%20BARISHA.csv",
+      "file": "DXAQMS-38_VIVEKANANDA%20COLLEGE%20FOR%20WOMEN%2C%20BARISHA",
+      "filenumber": 34
+    },
+    {
+      "stncode": "DXAQMS-40",
+      "location": "Ramananda College Bishnupur, Bankura",
+      "district": "Bankura",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-40_Ramananda%20College%20Bishnupur%2C%20Bankura.csv",
+      "file": "DXAQMS-40_Ramananda%20College%20Bishnupur%2C%20Bankura",
+      "filenumber": 35
+    },
+    {
+      "stncode": "DXAQMS-42",
+      "location": " Rampurhat College, Rampurhat",
+      "district": "Birbhum",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-42_%20Rampurhat%20College%2C%20Rampurhat.csv",
+      "file": "DXAQMS-42_%20Rampurhat%20College%2C%20Rampurhat",
+      "filenumber": 36
+    },
+    {
+      "stncode": "DXAQMS-71",
+      "location": "Kalinnagar Mahavidyalaya",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-71_Kalinnagar%20Mahavidyalaya.csv",
+      "file": "DXAQMS-71_Kalinnagar%20Mahavidyalaya",
+      "filenumber": 37
+    },
+    {
+      "stncode": "DXAQMS-41",
+      "location": "Habra College",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-41_Habra%20College.csv",
+      "file": "DXAQMS-41_Habra%20College",
+      "filenumber": 38
+    },
+    {
+      "stncode": "DXAQMS-43",
+      "location": "Basirhat College",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-43_Basirhat%20College.csv",
+      "file": "DXAQMS-43_Basirhat%20College",
+      "filenumber": 39
+    },
+    {
+      "stncode": "DXAQMS-39",
+      "location": "Nagar College, Murshidabad",
+      "district": "Murshidabad",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-39_Nagar%20College%2C%20Murshidabad.csv",
+      "file": "DXAQMS-39_Nagar%20College%2C%20Murshidabad",
+      "filenumber": 40
+    },
+    {
+      "stncode": "DXAQMS-44",
+      "location": "Subhas Ch. Bose Centenary College, Lalbagh",
+      "district": "Murshidabad",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-44_Subhas%20Ch.%20Bose%20Centenary%20College%2C%20Lalbagh.csv",
+      "file": "DXAQMS-44_Subhas%20Ch.%20Bose%20Centenary%20College%2C%20Lalbagh",
+      "filenumber": 41
+    },
+    {
+      "stncode": "DXAQMS-46",
+      "location": "Chandrapur College, Chandrapur",
+      "district": "Purba Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-46_Chandrapur%20College%2C%20Chandrapur.csv",
+      "file": "DXAQMS-46_Chandrapur%20College%2C%20Chandrapur",
+      "filenumber": 42
+    },
+    {
+      "stncode": "DXAQMS-48",
+      "location": "Kabi Jagadram Roy Government General Degree College, Mejia",
+      "district": "Bankura",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-48_Kabi%20Jagadram%20Roy%20Government%20General%20Degree%20College%2C%20Mejia.csv",
+      "file": "DXAQMS-48_Kabi%20Jagadram%20Roy%20Government%20General%20Degree%20College%2C%20Mejia",
+      "filenumber": 43
+    },
+    {
+      "stncode": "DXAQMS-49",
+      "location": "Panchthupi Haripada Gouribala College",
+      "district": "Murshidabad",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-49_Panchthupi%20Haripada%20Gouribala%20College.csv",
+      "file": "DXAQMS-49_Panchthupi%20Haripada%20Gouribala%20College",
+      "filenumber": 44
+    },
+    {
+      "stncode": "DXAQMS-50",
+      "location": "Sarsuna College",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-50_Sarsuna%20College.csv",
+      "file": "DXAQMS-50_Sarsuna%20College",
+      "filenumber": 45
+    },
+    {
+      "stncode": "DXAQMS-51",
+      "location": "DESHABANDHU MAHAVIDYALAYA, CHITTARANJAN",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-51_DESHABANDHU%20MAHAVIDYALAYA%2C%20CHITTARANJAN.csv",
+      "file": "DXAQMS-51_DESHABANDHU%20MAHAVIDYALAYA%2C%20CHITTARANJAN",
+      "filenumber": 46
+    },
+    {
+      "stncode": "DXAQMS-52",
+      "location": "Aghorekamini Prakash Chandra Mahavidyalaya",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-52_Aghorekamini%20Prakash%20Chandra%20Mahavidyalaya.csv",
+      "file": "DXAQMS-52_Aghorekamini%20Prakash%20Chandra%20Mahavidyalaya",
+      "filenumber": 47
+    },
+    {
+      "stncode": "DXAQMS-53",
+      "location": "Mahadevananda Mahavidyalaya",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-53_Mahadevananda%20Mahavidyalaya.csv",
+      "file": "DXAQMS-53_Mahadevananda%20Mahavidyalaya",
+      "filenumber": 48
+    },
+    {
+      "stncode": "DXAQMS-55",
+      "location": "East Calcutta Girls College, Lake Town",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-55_East%20Calcutta%20Girls%20College%2C%20Lake%20Town.csv",
+      "file": "DXAQMS-55_East%20Calcutta%20Girls%20College%2C%20Lake%20Town",
+      "filenumber": 49
+    },
+    {
+      "stncode": "DXAQMS-54",
+      "location": "Panchakot Mahavidyalaya, Sarberia",
+      "district": "Purulia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-54_Panchakot%20Mahavidyalaya%2C%20Sarberia.csv",
+      "file": "DXAQMS-54_Panchakot%20Mahavidyalaya%2C%20Sarberia",
+      "filenumber": 50
+    },
+    {
+      "stncode": "DXAQMS-56",
+      "location": "Raghunathpur College, Raghunathpur",
+      "district": "Purulia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-56_Raghunathpur%20College%2C%20Raghunathpur.csv",
+      "file": "DXAQMS-56_Raghunathpur%20College%2C%20Raghunathpur",
+      "filenumber": 51
+    },
+    {
+      "stncode": "DXAQMS-47",
+      "location": "Jalan Complex",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-47_Jalan%20Complex.csv",
+      "file": "DXAQMS-47_Jalan%20Complex",
+      "filenumber": 52
+    },
+    {
+      "stncode": "DXAQMS-57",
+      "location": "Office of The Commissioner of Police, Barrackpore",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-57_Office%20of%20The%20Commissioner%20of%20Police%2C%20Barrackpore.csv",
+      "file": "DXAQMS-57_Office%20of%20The%20Commissioner%20of%20Police%2C%20Barrackpore",
+      "filenumber": 53
+    },
+    {
+      "stncode": "DXAQMS-58",
+      "location": "Office of The Assistant Commissioner of Police, Belghoria",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-58_Office%20of%20The%20Assistant%20Commissioner%20of%20Police%2C%20Belghoria.csv",
+      "file": "DXAQMS-58_Office%20of%20The%20Assistant%20Commissioner%20of%20Police%2C%20Belghoria",
+      "filenumber": 54
+    },
+    {
+      "stncode": "DXAQMS-59",
+      "location": "Barabazar Bikram Tudu Memorial College, Barabhum",
+      "district": "Purulia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-59_Barabazar%20Bikram%20Tudu%20Memorial%20College%2C%20Barabhum.csv",
+      "file": "DXAQMS-59_Barabazar%20Bikram%20Tudu%20Memorial%20College%2C%20Barabhum",
+      "filenumber": 55
+    },
+    {
+      "stncode": "DXAQMS-60",
+      "location": "Netaji Subhas Ashram Mahavidyalaya, Suisa",
+      "district": "Purulia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-60_Netaji%20Subhas%20Ashram%20Mahavidyalaya%2C%20Suisa.csv",
+      "file": "DXAQMS-60_Netaji%20Subhas%20Ashram%20Mahavidyalaya%2C%20Suisa",
+      "filenumber": 56
+    },
+    {
+      "stncode": "DXAQMS-61",
+      "location": "Achhruram Memorial College, Jhalda",
+      "district": "Purulia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-61_Achhruram%20Memorial%20College%2C%20Jhalda.csv",
+      "file": "DXAQMS-61_Achhruram%20Memorial%20College%2C%20Jhalda",
+      "filenumber": 57
+    },
+    {
+      "stncode": "DXAQMS-62",
+      "location": "Pandit Raghunath Murmu Smriti Mahavidyalaya, Jambani",
+      "district": "Bankura",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-62_Pandit%20Raghunath%20Murmu%20Smriti%20Mahavidyalaya%2C%20Jambani.csv",
+      "file": "DXAQMS-62_Pandit%20Raghunath%20Murmu%20Smriti%20Mahavidyalaya%2C%20Jambani",
+      "filenumber": 58
+    },
+    {
+      "stncode": "DXAQMS-63",
+      "location": "Indas Mahavidyalaya, Khosbag",
+      "district": "Bankura",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-63_Indas%20Mahavidyalaya%2C%20Khosbag.csv",
+      "file": "DXAQMS-63_Indas%20Mahavidyalaya%2C%20Khosbag",
+      "filenumber": 59
+    },
+    {
+      "stncode": "DXAQMS-64",
+      "location": "Sundarban Mahavidyalaya",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-64_Sundarban%20Mahavidyalaya.csv",
+      "file": "DXAQMS-64_Sundarban%20Mahavidyalaya",
+      "filenumber": 60
+    },
+    {
+      "stncode": "DXAQMS-67",
+      "location": "Sundarban Hazi Desarat College",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-67_Sundarban%20Hazi%20Desarat%20College.csv",
+      "file": "DXAQMS-67_Sundarban%20Hazi%20Desarat%20College",
+      "filenumber": 61
+    },
+    {
+      "stncode": "DXAQMS-65",
+      "location": "Krishnagar Govt. College",
+      "district": "Nadia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-65_Krishnagar%20Govt.%20College.csv",
+      "file": "DXAQMS-65_Krishnagar%20Govt.%20College",
+      "filenumber": 62
+    },
+    {
+      "stncode": "DXAQMS-66",
+      "location": "Syed Nurul Hasan College, Farakka",
+      "district": "Murshidabad",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-66_Syed%20Nurul%20Hasan%20College%2C%20Farakka.csv",
+      "file": "DXAQMS-66_Syed%20Nurul%20Hasan%20College%2C%20Farakka",
+      "filenumber": 63
+    },
+    {
+      "stncode": "DXAQMS-68",
+      "location": "Sambhu Nath College, Labpur",
+      "district": "Birbhum",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-68_Sambhu%20Nath%20College%2C%20Labpur.csv",
+      "file": "DXAQMS-68_Sambhu%20Nath%20College%2C%20Labpur",
+      "filenumber": 64
+    },
+    {
+      "stncode": "DXAQMS-69",
+      "location": "Sagar Mahavidyalaya",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-69_Sagar%20Mahavidyalaya.csv",
+      "file": "DXAQMS-69_Sagar%20Mahavidyalaya",
+      "filenumber": 65
+    },
+    {
+      "stncode": "DXAQMS-70",
+      "location": "Gangasagar Development Authority",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-70_Gangasagar%20Development%20Authority.csv",
+      "file": "DXAQMS-70_Gangasagar%20Development%20Authority",
+      "filenumber": 66
+    },
+    {
+      "stncode": "DXAQMS-73",
+      "location": "Jalangi Mahavidyalaya",
+      "district": "Murshidabad",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-73_Jalangi%20Mahavidyalaya.csv",
+      "file": "DXAQMS-73_Jalangi%20Mahavidyalaya",
+      "filenumber": 67
+    },
+    {
+      "stncode": "DXAQMS-78",
+      "location": "Bankura University",
+      "district": "Bankura",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-78_Bankura%20University.csv",
+      "file": "DXAQMS-78_Bankura%20University",
+      "filenumber": 68
+    },
+    {
+      "stncode": "DXAQMS-75",
+      "location": "Sukanta Mahavidyalaya",
+      "district": "Darjeeling",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-75_Sukanta%20Mahavidyalaya.csv",
+      "file": "DXAQMS-75_Sukanta%20Mahavidyalaya",
+      "filenumber": 69
+    },
+    {
+      "stncode": "DXAQMS-74",
+      "location": "Irrigation Campus,Jalpaiguri",
+      "district": "Jalpaiguri",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-74_Irrigation%20Campus%2CJalpaiguri.csv",
+      "file": "DXAQMS-74_Irrigation%20Campus%2CJalpaiguri",
+      "filenumber": 70
+    },
+    {
+      "stncode": "DXAQMS-76",
+      "location": "Irrigation Campus, Alipurduar",
+      "district": "Alipurduar",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-76_Irrigation%20Campus%2C%20Alipurduar.csv",
+      "file": "DXAQMS-76_Irrigation%20Campus%2C%20Alipurduar",
+      "filenumber": 71
+    },
+    {
+      "stncode": "DXAQMS-77",
+      "location": "Irrigation Campus, Coochbehar",
+      "district": "Coochbehar",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-77_Irrigation%20Campus%2C%20Coochbehar.csv",
+      "file": "DXAQMS-77_Irrigation%20Campus%2C%20Coochbehar",
+      "filenumber": 72
+    },
+    {
+      "stncode": "DXAQMS-79",
+      "location": "Irrigation Campus, Siliguri",
+      "district": "Darjeeling",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-79_Irrigation%20Campus%2C%20Siliguri.csv",
+      "file": "DXAQMS-79_Irrigation%20Campus%2C%20Siliguri",
+      "filenumber": 73
+    },
+    {
+      "stncode": "DXAQMS-80",
+      "location": "Irrigation Campus, Malda",
+      "district": "Malda",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-80_Irrigation%20Campus%2C%20Malda.csv",
+      "file": "DXAQMS-80_Irrigation%20Campus%2C%20Malda",
+      "filenumber": 74
+    },
+    {
+      "stncode": "DXAQMS-81",
+      "location": "BDO Office Campus,Hili",
+      "district": "Dakshin Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-81_BDO%20Office%20Campus%2CHili.csv",
+      "file": "DXAQMS-81_BDO%20Office%20Campus%2CHili",
+      "filenumber": 75
+    },
+    {
+      "stncode": "DXAQMS-82",
+      "location": "Irrigation Campus, Balurghat",
+      "district": "Dakshin Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-82_Irrigation%20Campus%2C%20Balurghat.csv",
+      "file": "DXAQMS-82_Irrigation%20Campus%2C%20Balurghat",
+      "filenumber": 76
+    },
+    {
+      "stncode": "DXAQMS-83",
+      "location": "Irrigation Campus, Raiganj",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-83_Irrigation%20Campus%2C%20Raiganj.csv",
+      "file": "DXAQMS-83_Irrigation%20Campus%2C%20Raiganj",
+      "filenumber": 77
+    },
+    {
+      "stncode": "DXAQMS-84",
+      "location": "Raidighi College",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-84_Raidighi%20College.csv",
+      "file": "DXAQMS-84_Raidighi%20College",
+      "filenumber": 78
+    },
+    {
+      "stncode": "DXAQMS-85",
+      "location": "Irrigation Campus, Kakdwip",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-85_Irrigation%20Campus%2C%20Kakdwip.csv",
+      "file": "DXAQMS-85_Irrigation%20Campus%2C%20Kakdwip",
+      "filenumber": 79
+    },
+    {
+      "stncode": "DXAQMS-86",
+      "location": "Howrah Municipal Office",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-86_Howrah%20Municipal%20Office.csv",
+      "file": "DXAQMS-86_Howrah%20Municipal%20Office",
+      "filenumber": 80
+    },
+    {
+      "stncode": "DXAQMS-87",
+      "location": "Sarojini Naidu College for Women",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-87_Sarojini%20Naidu%20College%20for%20Women.csv",
+      "file": "DXAQMS-87_Sarojini%20Naidu%20College%20for%20Women",
+      "filenumber": 81
+    },
+    {
+      "stncode": "DXAQMS-88",
+      "location": "Tajpur",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-88_Tajpur.csv",
+      "file": "DXAQMS-88_Tajpur",
+      "filenumber": 82
+    },
+    {
+      "stncode": "DXAQMS-89",
+      "location": "Aparajita Cottage, Digha",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-89_Aparajita%20Cottage%2C%20Digha.csv",
+      "file": "DXAQMS-89_Aparajita%20Cottage%2C%20Digha",
+      "filenumber": 83
+    },
+    {
+      "stncode": "DXAQMS-90",
+      "location": "Avidipta Housing Complex",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-90_Avidipta%20Housing%20Complex.csv",
+      "file": "DXAQMS-90_Avidipta%20Housing%20Complex",
+      "filenumber": 84
+    },
+    {
+      "stncode": "DXAQMS-93",
+      "location": "Flora Fountain",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-93_Flora%20Fountain.csv",
+      "file": "DXAQMS-93_Flora%20Fountain",
+      "filenumber": 85
+    },
+    {
+      "stncode": "DXAQMS-94",
+      "location": "Deepanjali Marriage Hall",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-94_Deepanjali%20Marriage%20Hall.csv",
+      "file": "DXAQMS-94_Deepanjali%20Marriage%20Hall",
+      "filenumber": 86
+    },
+    {
+      "stncode": "DXAQMS-95",
+      "location": "Lalkuthi Crossing",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-95_Lalkuthi%20Crossing.csv",
+      "file": "DXAQMS-95_Lalkuthi%20Crossing",
+      "filenumber": 87
+    },
+    {
+      "stncode": "DXAQMS-96",
+      "location": "A.B.N. Seal College",
+      "district": "Coochbehar",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-96_A.B.N.%20Seal%20College.csv",
+      "file": "DXAQMS-96_A.B.N.%20Seal%20College",
+      "filenumber": 88
+    },
+    {
+      "stncode": "DXAQMS-97",
+      "location": "Poura Prashikhan Kendra, Barrackpore",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-97_Poura%20Prashikhan%20Kendra%2C%20Barrackpore.csv",
+      "file": "DXAQMS-97_Poura%20Prashikhan%20Kendra%2C%20Barrackpore",
+      "filenumber": 89
+    },
+    {
+      "stncode": "DXAQMS-98",
+      "location": "Urbana Housing Complex",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-98_Urbana%20Housing%20Complex.csv",
+      "file": "DXAQMS-98_Urbana%20Housing%20Complex",
+      "filenumber": 90
+    },
+    {
+      "stncode": "DXAQMS-99",
+      "location": "Islampur SDO Office",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-99_Islampur%20SDO%20Office.csv",
+      "file": "DXAQMS-99_Islampur%20SDO%20Office",
+      "filenumber": 91
+    },
+    {
+      "stncode": "DXAQMS-100",
+      "location": "Bandapani Tea Garden, Jalpaiguri",
+      "district": "Jalpaiguri",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-100_Bandapani%20Tea%20Garden%2C%20Jalpaiguri.csv",
+      "file": "DXAQMS-100_Bandapani%20Tea%20Garden%2C%20Jalpaiguri",
+      "filenumber": 92
+    },
+    {
+      "stncode": "DXAQMS-101",
+      "location": "Old Calcutta Road Checkpost",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-101_Old%20Calcutta%20Road%20Checkpost.csv",
+      "file": "DXAQMS-101_Old%20Calcutta%20Road%20Checkpost",
+      "filenumber": 93
+    },
+    {
+      "stncode": "DXAQMS-104",
+      "location": "Tentulberia Health Center",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-104_Tentulberiya%20Health%20Center .csv",
+      "file": "DXAQMS-104_Tentulberiya%20Health%20Center ",
+      "filenumber": 94
+    },
+    {
+      "stncode": "DXAQMS-105",
+      "location": "Budge Budge Institute of Technology",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-105_Budge%20Budge%20Institute%20of%20Technology.csv",
+      "file": "DXAQMS-105_Budge%20Budge%20Institute%20of%20Technology",
+      "filenumber": 95
+    },
+    {
+      "stncode": "DXAQMS-106",
+      "location": "Paranchak Sikshaniketan(H.S), Haldia",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-106_Paranchak%20Sikshaniketan%28H.S%29%2C%20Haldia.csv",
+      "file": "DXAQMS-106_Paranchak%20Sikshaniketan%28H.S%29%2C%20Haldia",
+      "filenumber": 96
+    },
+    {
+      "stncode": "DXAQMS-107",
+      "location": "Haldia Government College",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-107_Haldia%20Government%20College.csv",
+      "file": "DXAQMS-107_Haldia%20Government%20College",
+      "filenumber": 97
+    },
+    {
+      "stncode": "DXAQMS-108",
+      "location": "Chinsura Imambara Hospital",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-108_Chinsura%20Imambara%20Hospital.csv",
+      "file": "DXAQMS-108_Chinsura%20Imambara%20Hospital",
+      "filenumber": 98
+    },
+    {
+      "stncode": "DXAQMS-109",
+      "location": "Serampore Walsh Superspeciality Hospital",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-109_Serampore%20Walsh%20Superspeciality%20Hospital.csv",
+      "file": "DXAQMS-109_Serampore%20Walsh%20Superspeciality%20Hospital",
+      "filenumber": 99
+    },
+    {
+      "stncode": "DXAQMS-110",
+      "location": "Anadapuri Playground",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-110_Anadapuri%20Playground.csv",
+      "file": "DXAQMS-110_Anadapuri%20Playground",
+      "filenumber": 100
+    },
+    {
+      "stncode": "DXAQMS-111",
+      "location": "Durgachawk Police Station",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-111_Durgachawk%20Police%20Station.csv",
+      "file": "DXAQMS-111_Durgachawk%20Police%20Station",
+      "filenumber": 101
+    },
+    {
+      "stncode": "DXAQMS-112",
+      "location": "Haldia Police Station",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-112_Haldia%20Police%20Station.csv",
+      "file": "DXAQMS-112_Haldia%20Police%20Station",
+      "filenumber": 102
+    },
+    {
+      "stncode": "DXAQMS-114",
+      "location": "Dinabandhu College",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-114_Dinabandhu%20College.csv",
+      "file": "DXAQMS-114_Dinabandhu%20College",
+      "filenumber": 103
+    },
+    {
+      "stncode": "DXAQMS-115",
+      "location": "Haldia PCB Office",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-115_Haldia%20PCB%20Office .csv",
+      "file": "DXAQMS-115_Haldia%20PCB%20Office ",
+      "filenumber": 104
+    },
+    {
+      "stncode": "DXAQMS-116",
+      "location": "Barrackpore WBPCB Office",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-116_Barrackpore%20WBPCB%20Office.csv",
+      "file": "DXAQMS-116_Barrackpore%20WBPCB%20Office",
+      "filenumber": 105
+    },
+    {
+      "stncode": "DXAQMS-117",
+      "location": "Kumargram Police Station",
+      "district": "Alipurduar",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-117_Kumargram%20Police%20Station.csv",
+      "file": "DXAQMS-117_Kumargram%20Police%20Station",
+      "filenumber": 106
+    },
+    {
+      "stncode": "DXAQMS-118",
+      "location": "Bidhannagar Pump House",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-118_Bidhannagar%20Pump%20House.csv",
+      "file": "DXAQMS-118_Bidhannagar%20Pump%20House",
+      "filenumber": 107
+    },
+    {
+      "stncode": "DXAQMS-119",
+      "location": "Gobardanga College",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-119_Gobardanga%20College.csv",
+      "file": "DXAQMS-119_Gobardanga%20College",
+      "filenumber": 108
+    },
+    {
+      "stncode": "DXAQMS-120",
+      "location": "Durgapur Gopalmath",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-120_Durgapur%20Gopalmath.csv",
+      "file": "DXAQMS-120_Durgapur%20Gopalmath",
+      "filenumber": 109
+    },
+    {
+      "stncode": "DXAQMS-121",
+      "location": "Ambagan Borough Office",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-121_Ambagan%20Borough%20Office.csv",
+      "file": "DXAQMS-121_Ambagan%20Borough%20Office",
+      "filenumber": 110
+    },
+    {
+      "stncode": "DXAQMS-122",
+      "location": "DMC New Water Treatment Plant",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-122_DMC%20New%20Water%20Treatment%20Plant.csv",
+      "file": "DXAQMS-122_DMC%20New%20Water%20Treatment%20Plant",
+      "filenumber": 111
+    },
+    {
+      "stncode": "DXAQMS-123",
+      "location": "Fultola Bathing Ghat",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-123_Fultola%20Bathing%20Ghat.csv",
+      "file": "DXAQMS-123_Fultola%20Bathing%20Ghat",
+      "filenumber": 112
+    },
+    {
+      "stncode": "DXAQMS-124",
+      "location": "Sagarbhanga Old BDO Office",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-124_Sagarbhanga%20Old%20BDO%20Office.csv",
+      "file": "DXAQMS-124_Sagarbhanga%20Old%20BDO%20Office",
+      "filenumber": 113
+    },
+    {
+      "stncode": "DXAQMS-126",
+      "location": "Gharbeta Police Station",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-126_Gharbeta%20Police%20Station.csv",
+      "file": "DXAQMS-126_Gharbeta%20Police%20Station",
+      "filenumber": 114
+    },
+    {
+      "stncode": "DXAQMS-127",
+      "location": "Salboni Police Station",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-127_Salboni%20Police%20Station.csv",
+      "file": "DXAQMS-127_Salboni%20Police%20Station",
+      "filenumber": 115
+    },
+    {
+      "stncode": "DXAQMS-128",
+      "location": "Robin Sen Stadium",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-128_Robin%20Sen%20Stadium.csv",
+      "file": "DXAQMS-128_Robin%20Sen%20Stadium",
+      "filenumber": 116
+    },
+    {
+      "stncode": "DXAQMS-129",
+      "location": "Ghatal Police station",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-129_Ghatal%20Police%20station.csv",
+      "file": "DXAQMS-129_Ghatal%20Police%20station",
+      "filenumber": 117
+    },
+    {
+      "stncode": "DXAQMS-130",
+      "location": "Lokmanya Bal Gangadhar Tilak Park",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-130_Lokmanya%20Bal%20Gangadhar%20Tilak%20Park.csv",
+      "file": "DXAQMS-130_Lokmanya%20Bal%20Gangadhar%20Tilak%20Park",
+      "filenumber": 118
+    },
+    {
+      "stncode": "DXAQMS-159",
+      "location": "Bhairab Ganguly College",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-159_Bhairab%20Ganguly%20College.csv",
+      "file": "DXAQMS-159_Bhairab%20Ganguly%20College",
+      "filenumber": 119
+    },
+    {
+      "stncode": "DXAQMS-131",
+      "location": "Presidency University",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-131_Presidency%20University.csv",
+      "file": "DXAQMS-131_Presidency%20University",
+      "filenumber": 120
+    },
+    {
+      "stncode": "DXAQMS-132",
+      "location": "Dantan Police Station",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-132_Dantan%20Police%20Station.csv",
+      "file": "DXAQMS-132_Dantan%20Police%20Station",
+      "filenumber": 121
+    },
+    {
+      "stncode": "DXAQMS-133",
+      "location": "Pingla Police Station",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-133_Pingla%20Police%20Station.csv",
+      "file": "DXAQMS-133_Pingla%20Police%20Station",
+      "filenumber": 122
+    },
+    {
+      "stncode": "DXAQMS-134",
+      "location": "Hijli Town Office Police Kharagpur",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-134_Hijli%20Town%20Office%20Police%20Kharagpur.csv",
+      "file": "DXAQMS-134_Hijli%20Town%20Office%20Police%20Kharagpur",
+      "filenumber": 123
+    },
+    {
+      "stncode": "DXAQMS-135",
+      "location": "Solaris Ideal Riverview",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-135_Solaris%20Ideal%20Riverview.csv",
+      "file": "DXAQMS-135_Solaris%20Ideal%20Riverview",
+      "filenumber": 124
+    },
+    {
+      "stncode": "DXAQMS-136",
+      "location": "Chopra Kamala Paul Smriti Mahavidyalaya",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-136_Chopra%20Kamala%20Paul%20Smriti%20Mahavidyalaya.csv",
+      "file": "DXAQMS-136_Chopra%20Kamala%20Paul%20Smriti%20Mahavidyalaya",
+      "filenumber": 125
+    },
+    {
+      "stncode": "DXAQMS-137",
+      "location": "Dalkhola High School",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-137_Dalkhola%20High%20School.csv",
+      "file": "DXAQMS-137_Dalkhola%20High%20School",
+      "filenumber": 126
+    },
+    {
+      "stncode": "DXAQMS-138",
+      "location": "BL Saha Road",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-138_BL%20Saha%20Road.csv",
+      "file": "DXAQMS-138_BL%20Saha%20Road",
+      "filenumber": 127
+    },
+    {
+      "stncode": "DXAQMS-139",
+      "location": "Madhyamgram Municipality",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-139_Madhyamgram%20Municipality.csv",
+      "file": "DXAQMS-139_Madhyamgram%20Municipality",
+      "filenumber": 128
+    },
+    {
+      "stncode": "DXAQMS-140",
+      "location": "Triveni Devi Bhalotia College",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-140_Triveni%20Devi%20Bhalotia%20College.csv",
+      "file": "DXAQMS-140_Triveni%20Devi%20Bhalotia%20College",
+      "filenumber": 129
+    },
+    {
+      "stncode": "DXAQMS-141",
+      "location": "Taki Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-141_Taki%20Municipality.csv",
+      "file": "DXAQMS-141_Taki%20Municipality",
+      "filenumber": 130
+    },
+    {
+      "stncode": "DXAQMS-142",
+      "location": "Lady Brabourne College",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-142_Lady%20Brabourne%20College.csv",
+      "file": "DXAQMS-142_Lady%20Brabourne%20College",
+      "filenumber": 131
+    },
+    {
+      "stncode": "DXAQMS-143",
+      "location": "Barasat Goverment College",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-143_Barasat%20Goverment%20College.csv",
+      "file": "DXAQMS-143_Barasat%20Goverment%20College",
+      "filenumber": 132
+    },
+    {
+      "stncode": "DXAQMS-144",
+      "location": "Karunamoye Bus Stand",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-144_Karunamoye%20Bus%20Stand.csv",
+      "file": "DXAQMS-144_Karunamoye%20Bus%20Stand",
+      "filenumber": 133
+    },
+    {
+      "stncode": "DXAQMS-145",
+      "location": "Bidhannagar East Police Station",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-145_Bidhannagar%20East%20Police%20Station.csv",
+      "file": "DXAQMS-145_Bidhannagar%20East%20Police%20Station",
+      "filenumber": 134
+    },
+    {
+      "stncode": "DXAQMS-146",
+      "location": "Jhargram University",
+      "district": "Jhargram",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-146_Jhargram%20University.csv",
+      "file": "DXAQMS-146_Jhargram%20University",
+      "filenumber": 135
+    },
+    {
+      "stncode": "DXAQMS-148",
+      "location": "Rajarhat Police Station",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-148_Rajarhat%20Police%20Station.csv",
+      "file": "DXAQMS-148_Rajarhat%20Police%20Station",
+      "filenumber": 136
+    },
+    {
+      "stncode": "DXAQMS-149",
+      "location": "Goalpokhur Govt. ITI College",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-149_Goalpokhur%20Govt.%20ITI%20College.csv",
+      "file": "DXAQMS-149_Goalpokhur%20Govt.%20ITI%20College",
+      "filenumber": 137
+    },
+    {
+      "stncode": "DXAQMS-150",
+      "location": "Dumkal College",
+      "district": "Murshidabad",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-150_Dumkal%20College.csv",
+      "file": "DXAQMS-150_Dumkal%20College",
+      "filenumber": 138
+    },
+    {
+      "stncode": "DXAQMS-151",
+      "location": "Chandidas Market",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-151_Chandidas%20Market.csv",
+      "file": "DXAQMS-151_Chandidas%20Market",
+      "filenumber": 139
+    },
+    {
+      "stncode": "DXAQMS-152",
+      "location": "University of Kalyani",
+      "district": "Nadia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-152_University%20of%20Kalyani.csv",
+      "file": "DXAQMS-152_University%20of%20Kalyani",
+      "filenumber": 140
+    },
+    {
+      "stncode": "DXAQMS-153",
+      "location": "Ballygunge Campus, C.U",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-153_Ballygunge%20Campus%2C%20C.U.csv",
+      "file": "DXAQMS-153_Ballygunge%20Campus%2C%20C.U",
+      "filenumber": 141
+    },
+    {
+      "stncode": "DXAQMS-154",
+      "location": "Asansol Engineering College",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-154_Asansol%20Engineering%20College.csv",
+      "file": "DXAQMS-154_Asansol%20Engineering%20College",
+      "filenumber": 142
+    },
+    {
+      "stncode": "DXAQMS-155",
+      "location": "Shyam Sel & Power LTD Mangalpur",
+      "district": "Paschim Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-155_Shyam%20Sel%20%26%20Power%20LTD%20Mangalpur.csv",
+      "file": "DXAQMS-155_Shyam%20Sel%20%26%20Power%20LTD%20Mangalpur",
+      "filenumber": 143
+    },
+    {
+      "stncode": "DXAQMS-157",
+      "location": "Sabang Sajanikanta Mahavidyalaya",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-157_Sabang%20Sajanikanta%20Mahavidyalaya.csv",
+      "file": "DXAQMS-157_Sabang%20Sajanikanta%20Mahavidyalaya",
+      "filenumber": 144
+    },
+    {
+      "stncode": "DXAQMS-158",
+      "location": "Dhapa Lock Pumping Station",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-158_Dhapa%20Lock%20Pumping%20Station .csv",
+      "file": "DXAQMS-158_Dhapa%20Lock%20Pumping%20Station ",
+      "filenumber": 145
+    },
+    {
+      "stncode": "DXAQMS-163",
+      "location": "Kandi Hospital",
+      "district": "Murshidabad",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-163_Kandi%20Hospital.csv",
+      "file": "DXAQMS-163_Kandi%20Hospital",
+      "filenumber": 146
+    },
+    {
+      "stncode": "DXAQMS-165",
+      "location": "National Atlas Bhaban",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-165_National%20Atlas%20Bhaban.csv",
+      "file": "DXAQMS-165_National%20Atlas%20Bhaban",
+      "filenumber": 147
+    },
+    {
+      "stncode": "DXAQMS-166",
+      "location": "Maulana Azad Collage",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-166_Maulana%20Azad%20Collage.csv",
+      "file": "DXAQMS-166_Maulana%20Azad%20Collage",
+      "filenumber": 148
+    },
+    {
+      "stncode": "DXAQMS-168",
+      "location": "Kanchrapara Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-168_Kanchrapara%20Municipality.csv",
+      "file": "DXAQMS-168_Kanchrapara%20Municipality",
+      "filenumber": 149
+    },
+    {
+      "stncode": "DXAQMS-169",
+      "location": "Nabadwip Municipality",
+      "district": "Nadia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-169_Nabadwip%20Municipality.csv",
+      "file": "DXAQMS-169_Nabadwip%20Municipality",
+      "filenumber": 150
+    },
+    {
+      "stncode": "DXAQMS-170",
+      "location": "Naihati Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-170_Naihati%20Municipality.csv",
+      "file": "DXAQMS-170_Naihati%20Municipality",
+      "filenumber": 151
+    },
+    {
+      "stncode": "DXAQMS-171",
+      "location": "Lorreto College",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-171_Lorreto%20College.csv",
+      "file": "DXAQMS-171_Lorreto%20College",
+      "filenumber": 152
+    },
+    {
+      "stncode": "DXAQMS-172",
+      "location": "Panihati Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-172_Panihati%20Municipality.csv",
+      "file": "DXAQMS-172_Panihati%20Municipality",
+      "filenumber": 153
+    },
+    {
+      "stncode": "DXAQMS-173",
+      "location": "Memari Municipality",
+      "district": "Purba Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-173_Memari%20Municipality.csv",
+      "file": "DXAQMS-173_Memari%20Municipality",
+      "filenumber": 154
+    },
+    {
+      "stncode": "DXAQMS-174",
+      "location": "Hiralal Bhakat College",
+      "district": "Birbhum",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-174_Hiralal%20Bhakat%20College.csv",
+      "file": "DXAQMS-174_Hiralal%20Bhakat%20College",
+      "filenumber": 155
+    },
+    {
+      "stncode": "DXAQMS-175",
+      "location": "Katwa Municipality",
+      "district": "Purba Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-175_Katwa%20Municipality.csv",
+      "file": "DXAQMS-175_Katwa%20Municipality",
+      "filenumber": 156
+    },
+    {
+      "stncode": "DXAQMS-176",
+      "location": "Baranagar Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-176_Baranagar%20Municipality.csv",
+      "file": "DXAQMS-176_Baranagar%20Municipality",
+      "filenumber": 157
+    },
+    {
+      "stncode": "DXAQMS-177",
+      "location": "Asutosh 2nd Campus",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-177_Asutosh%202nd%20Campus.csv",
+      "file": "DXAQMS-177_Asutosh%202nd%20Campus",
+      "filenumber": 158
+    },
+    {
+      "stncode": "DXAQMS-178",
+      "location": "Rishra Municipality",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-178_Rishra%20Municipality.csv",
+      "file": "DXAQMS-178_Rishra%20Municipality",
+      "filenumber": 159
+    },
+    {
+      "stncode": "DXAQMS-179",
+      "location": "Titagarh Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-179_Titagarh%20Municipality.csv",
+      "file": "DXAQMS-179_Titagarh%20Municipality",
+      "filenumber": 160
+    },
+    {
+      "stncode": "DXAQMS-180",
+      "location": "Mirik Notified Area Authority",
+      "district": "Darjeeling",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-180_Mirik%20Notified%20Area%20Authority.csv",
+      "file": "DXAQMS-180_Mirik%20Notified%20Area%20Authority",
+      "filenumber": 161
+    },
+    {
+      "stncode": "DXAQMS-182",
+      "location": "Mekhliganj Municipality",
+      "district": "Coochbehar",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-182_Mekhliganj%20Municipality.csv",
+      "file": "DXAQMS-182_Mekhliganj%20Municipality",
+      "filenumber": 162
+    },
+    {
+      "stncode": "DXAQMS-183",
+      "location": "Haldibari Municipality",
+      "district": "Coochbehar",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-183_Haldibari%20Municipality.csv",
+      "file": "DXAQMS-183_Haldibari%20Municipality",
+      "filenumber": 163
+    },
+    {
+      "stncode": "DXAQMS-184",
+      "location": "Barasat Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-184_Barasat%20Municipality.csv",
+      "file": "DXAQMS-184_Barasat%20Municipality",
+      "filenumber": 164
+    },
+    {
+      "stncode": "DXAQMS-185",
+      "location": "Falakata Municipality",
+      "district": "Alipurduar",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-185_Falakata%20Municipality.csv",
+      "file": "DXAQMS-185_Falakata%20Municipality",
+      "filenumber": 165
+    },
+    {
+      "stncode": "DXAQMS-186",
+      "location": "Dinhata Municipality",
+      "district": "Alipurduar",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-186_Dinhata%20Municipality.csv",
+      "file": "DXAQMS-186_Dinhata%20Municipality",
+      "filenumber": 166
+    },
+    {
+      "stncode": "DXAQMS-188",
+      "location": "Baidyabati Municipality",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-188_Baidyabati%20Municipality.csv",
+      "file": "DXAQMS-188_Baidyabati%20Municipality",
+      "filenumber": 167
+    },
+    {
+      "stncode": "DXAQMS-189",
+      "location": "Maheshtala Municipality",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-189_Maheshtala%20Municipality.csv",
+      "file": "DXAQMS-189_Maheshtala%20Municipality",
+      "filenumber": 168
+    },
+    {
+      "stncode": "DXAQMS-190",
+      "location": "Tarakeswar Municipality",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-190_Tarakeswar%20Municipality.csv",
+      "file": "DXAQMS-190_Tarakeswar%20Municipality",
+      "filenumber": 169
+    },
+    {
+      "stncode": "DXAQMS-193",
+      "location": "St. Xavier's university",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-193_St.%20Xavier%27s%20university.csv",
+      "file": "DXAQMS-193_St.%20Xavier%27s%20university",
+      "filenumber": 170
+    },
+    {
+      "stncode": "DXAQMS-195",
+      "location": "New Acharya Prafulla Chandra College",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-195_New%20Acharya%20Prafulla%20Chandra%20College.csv",
+      "file": "DXAQMS-195_New%20Acharya%20Prafulla%20Chandra%20College",
+      "filenumber": 171
+    },
+    {
+      "stncode": "DXAQMS-196",
+      "location": "Diamond Harbour Municipality",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-196_Diamond%20Harbour%20Municipality.csv",
+      "file": "DXAQMS-196_Diamond%20Harbour%20Municipality",
+      "filenumber": 172
+    },
+    {
+      "stncode": "DXAQMS-197",
+      "location": "Champdani Municipality",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-197_Champdani%20Municipality.csv",
+      "file": "DXAQMS-197_Champdani%20Municipality",
+      "filenumber": 173
+    },
+    {
+      "stncode": "DXAQMS-198",
+      "location": "New Barrackpore Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-198_New%20Barrackpore%20Municipality.csv",
+      "file": "DXAQMS-198_New%20Barrackpore%20Municipality",
+      "filenumber": 174
+    },
+    {
+      "stncode": "DXAQMS--199",
+      "location": "Nalhati Municipality",
+      "district": "Birbhum",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS--199_Nalhati%20Municipality.csv",
+      "file": "DXAQMS--199_Nalhati%20Municipality",
+      "filenumber": 175
+    },
+    {
+      "stncode": "DXAQMS--200",
+      "location": "Narajole Raj College",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS--200_Narajole%20Raj%20College.csv",
+      "file": "DXAQMS--200_Narajole%20Raj%20College",
+      "filenumber": 176
+    },
+    {
+      "stncode": "DXAQMS--201",
+      "location": "Ramjibanpur Municipality",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS--201_Ramjibanpur%20Municipality.csv",
+      "file": "DXAQMS--201_Ramjibanpur%20Municipality",
+      "filenumber": 177
+    },
+    {
+      "stncode": "DXAQMS--202",
+      "location": "Kharar Municipality",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS--202_Kharar%20Municipality.csv",
+      "file": "DXAQMS--202_Kharar%20Municipality",
+      "filenumber": 178
+    },
+    {
+      "stncode": "DXAQMS--203",
+      "location": "Uluberiya Municipality",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS--203_Uluberia%20Municipality .csv",
+      "file": "DXAQMS--203_Uluberia%20Municipality ",
+      "filenumber": 179
+    },
+    {
+      "stncode": "DXAQMS--204",
+      "location": "Gangarampur Municipality",
+      "district": "Dakshin Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS--204_Gangarampur%20Municipality.csv",
+      "file": "DXAQMS--204_Gangarampur%20Municipality",
+      "filenumber": 180
+    },
+    {
+      "stncode": "DXAQMS-205",
+      "location": "Dalkhola Municipality",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-205_Dalkhola%20Municipality.csv",
+      "file": "DXAQMS-205_Dalkhola%20Municipality",
+      "filenumber": 181
+    },
+    {
+      "stncode": "DXAQMS-207",
+      "location": "Gayeshpur Municipality",
+      "district": "Nadia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-207_Gayeshpur%20Municipality.csv",
+      "file": "DXAQMS-207_Gayeshpur%20Municipality",
+      "filenumber": 182
+    },
+    {
+      "stncode": "DXAQMS-208",
+      "location": "Khirpai Municipality",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-208_Khirpai%20Municipality.csv",
+      "file": "DXAQMS-208_Khirpai%20Municipality",
+      "filenumber": 183
+    },
+    {
+      "stncode": "DXAQMS-209",
+      "location": "Bhatpara Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-209_Bhatpara%20Municipality.csv",
+      "file": "DXAQMS-209_Bhatpara%20Municipality",
+      "filenumber": 184
+    },
+    {
+      "stncode": "DXAQMS-210",
+      "location": "Chakdaha Municiplity",
+      "district": "Nadia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-210_Chakdaha%20Municipality .csv",
+      "file": "DXAQMS-210_Chakdaha%20Municipality ",
+      "filenumber": 185
+    },
+    {
+      "stncode": "DXAQMS-211",
+      "location": "Cooper's Camp",
+      "district": "Nadia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-211_Cooper%27s%20Camp.csv",
+      "file": "DXAQMS-211_Cooper%27s%20Camp",
+      "filenumber": 186
+    },
+    {
+      "stncode": "DXAQMS-212",
+      "location": "Halisahar Municiplity",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-212_Halisahar%20Municipality .csv",
+      "file": "DXAQMS-212_Halisahar%20Municipality ",
+      "filenumber": 187
+    },
+    {
+      "stncode": "DXAQMS-213",
+      "location": "Pujali Municipality",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-213_Pujali%20Municipality.csv",
+      "file": "DXAQMS-213_Pujali%20Municipality",
+      "filenumber": 188
+    },
+    {
+      "stncode": "DXAQMS-214",
+      "location": "Tamralipta Municipality",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-214_Tamralipta%20Municipality.csv",
+      "file": "DXAQMS-214_Tamralipta%20Municipality",
+      "filenumber": 189
+    },
+    {
+      "stncode": "DXAQMS-215",
+      "location": "Egra Municipality",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-215_Egra%20Municipality.csv",
+      "file": "DXAQMS-215_Egra%20Municipality",
+      "filenumber": 190
+    },
+    {
+      "stncode": "DXAQMS-216",
+      "location": "Konnagar Municipality",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-216_Konnagar%20Municipality.csv",
+      "file": "DXAQMS-216_Konnagar%20Municipality",
+      "filenumber": 191
+    },
+    {
+      "stncode": "DXAQMS-217",
+      "location": "Baruipur Municipality",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-217_Baruipur%20Municipality.csv",
+      "file": "DXAQMS-217_Baruipur%20Municipality",
+      "filenumber": 192
+    },
+    {
+      "stncode": "DXAQMS-218",
+      "location": "Uttarpara Kotrung Municipality",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-218_Uttarpara%20Kotrung%20Municipality.csv",
+      "file": "DXAQMS-218_Uttarpara%20Kotrung%20Municipality",
+      "filenumber": 193
+    },
+    {
+      "stncode": "DXAQMS-219",
+      "location": "Dankuni Municipality",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-219_Dankuni%20Municipality.csv",
+      "file": "DXAQMS-219_Dankuni%20Municipality",
+      "filenumber": 194
+    },
+    {
+      "stncode": "DXAQMS-221",
+      "location": "Taherpur Notified Area Authority",
+      "district": "Nadia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-221_Taherpur%20Notified%20Area%20Authority.csv",
+      "file": "DXAQMS-221_Taherpur%20Notified%20Area%20Authority",
+      "filenumber": 195
+    },
+    {
+      "stncode": "DXAQMS-222",
+      "location": "Birnagar Municipality",
+      "district": "Nadia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-222_Birnagar%20Municipality.csv",
+      "file": "DXAQMS-222_Birnagar%20Municipality",
+      "filenumber": 196
+    },
+    {
+      "stncode": "DXAQMS-223",
+      "location": "Bally Municipality",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-223_Bally%20Municipality.csv",
+      "file": "DXAQMS-223_Bally%20Municipality",
+      "filenumber": 197
+    },
+    {
+      "stncode": "DXAQMS-224",
+      "location": "North Dumdum Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-224_North%20Dumdum%20Municipality.csv",
+      "file": "DXAQMS-224_North%20Dumdum%20Municipality",
+      "filenumber": 198
+    },
+    {
+      "stncode": "DXAQMS-225",
+      "location": "Chopra BDO Office",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-225_Chopra%20BDO%20Office.csv",
+      "file": "DXAQMS-225_Chopra%20BDO%20Office",
+      "filenumber": 199
+    },
+    {
+      "stncode": "DXAQMS-226",
+      "location": "Goalpokher I BDO Office",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-226_Goalpokher%20I%20BDO%20Office.csv",
+      "file": "DXAQMS-226_Goalpokher%20I%20BDO%20Office",
+      "filenumber": 200
+    },
+    {
+      "stncode": "DXAQMS-227",
+      "location": "Karandighi BDO Office",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-227_Karandighi%20BDO%20Office.csv",
+      "file": "DXAQMS-227_Karandighi%20BDO%20Office",
+      "filenumber": 201
+    },
+    {
+      "stncode": "DXAQMS-228",
+      "location": "Goalpokher II BDO Office",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-228_Goalpokher%20II%20BDO%20Office.csv",
+      "file": "DXAQMS-228_Goalpokher%20II%20BDO%20Office",
+      "filenumber": 202
+    },
+    {
+      "stncode": "DXAQMS-229",
+      "location": "Raiganj B.D.O Office",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-229_Raiganj%20B.D.O%20Office.csv",
+      "file": "DXAQMS-229_Raiganj%20B.D.O%20Office",
+      "filenumber": 203
+    },
+    {
+      "stncode": "DXAQMS-230",
+      "location": "Itahar BDO Office",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-230_Itahar%20BDO%20Office.csv",
+      "file": "DXAQMS-230_Itahar%20BDO%20Office",
+      "filenumber": 204
+    },
+    {
+      "stncode": "DXAQMS-231",
+      "location": "Kaliaganj BDO Office",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-231_Kaliaganj%20B.D.O%20Office%20.csv",
+      "file": "DXAQMS-231_Kaliaganj%20B.D.O%20Office%20",
+      "filenumber": 205
+    },
+    {
+      "stncode": "DXAQMS-232",
+      "location": "Hemtabad BDO Office",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-232_Hemtabad%20BDO%20Office.csv",
+      "file": "DXAQMS-232_Hemtabad%20BDO%20Office",
+      "filenumber": 206
+    },
+    {
+      "stncode": "DXAQMS-233",
+      "location": "Bethune College",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-233_Bethune%20College.csv",
+      "file": "DXAQMS-233_Bethune%20College",
+      "filenumber": 207
+    },
+    {
+      "stncode": "DXAQMS-234",
+      "location": "Ranaghat Municipality",
+      "district": "Nadia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-234_Ranaghat%20Municipality.csv",
+      "file": "DXAQMS-234_Ranaghat%20Municipality",
+      "filenumber": 208
+    },
+    {
+      "stncode": "DXAQMS-235",
+      "location": "Kalna Municipality",
+      "district": "Purba Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-235_Kalna%20Municipality.csv",
+      "file": "DXAQMS-235_Kalna%20Municipality",
+      "filenumber": 209
+    },
+    {
+      "stncode": "DXAQMS-237",
+      "location": "Garulia Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-237_Garulia%20Municipality.csv",
+      "file": "DXAQMS-237_Garulia%20Municipality",
+      "filenumber": 210
+    },
+    {
+      "stncode": "DXAQMS-238",
+      "location": "Baduria Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-238_Baduria%20Municipality.csv",
+      "file": "DXAQMS-238_Baduria%20Municipality",
+      "filenumber": 211
+    },
+    {
+      "stncode": "DXAQMS-239",
+      "location": "Sundarban Bijoynagar Village",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-239_Sundarban%20Bijoynagar%20Village.csv",
+      "file": "DXAQMS-239_Sundarban%20Bijoynagar%20Village",
+      "filenumber": 212
+    },
+    {
+      "stncode": "DXAQMS-240",
+      "location": "Purulia Ghonga Primary School",
+      "district": "Purulia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-240_Purulia%20Ghongha%20Primary%20School.csv",
+      "file": "DXAQMS-240_Purulia%20Ghongha%20Primary%20School",
+      "filenumber": 213
+    },
+    {
+      "stncode": "DXAQMS-241",
+      "location": "Bankura Purandihi Village",
+      "district": "Bankura",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-241_Bankura%20Purandihi%20Village.csv",
+      "file": "DXAQMS-241_Bankura%20Purandihi%20Village",
+      "filenumber": 214
+    },
+    {
+      "stncode": "DXAQMS-242",
+      "location": "Jiaganj-Azimganj Municipality",
+      "district": "Murshidabad",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-242_Jiaganj-Azimganj%20Municipality.csv",
+      "file": "DXAQMS-242_Jiaganj-Azimganj%20Municipality",
+      "filenumber": 215
+    },
+    {
+      "stncode": "DXAQMS-243",
+      "location": "Ashokenagar-Kalyangarh Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-243_Ashoknagar-Kalyangarh%20Municipality.csv",
+      "file": "DXAQMS-243_Ashoknagar-Kalyangarh%20Municipality",
+      "filenumber": 216
+    },
+    {
+      "stncode": "DXAQMS-244",
+      "location": "Rajpur-Sonarpur Municipality",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-244_Rajpur-Sonarpur%20Municipality.csv",
+      "file": "DXAQMS-244_Rajpur-Sonarpur%20Municipality",
+      "filenumber": 217
+    },
+    {
+      "stncode": "DXAQMS-245",
+      "location": "Sonamukhi Municipality",
+      "district": "Bankura",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-245_Sonamukhi%20Municipality.csv",
+      "file": "DXAQMS-245_Sonamukhi%20Municipality",
+      "filenumber": 218
+    },
+    {
+      "stncode": "DXAQMS-247",
+      "location": "Chandrakona Municipality",
+      "district": "Paschim Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-247_Chandrakona%20Municipality.csv",
+      "file": "DXAQMS-247_Chandrakona%20Municipality",
+      "filenumber": 219
+    },
+    {
+      "stncode": "DXAQMS-248",
+      "location": "Old Malda Municipality",
+      "district": "Malda",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-248_Old%20Malda%20Municipality.csv",
+      "file": "DXAQMS-248_Old%20Malda%20Municipality",
+      "filenumber": 220
+    },
+    {
+      "stncode": "DXAQMS-249",
+      "location": "Kaliyaganj Municipality",
+      "district": "Uttar Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com//DXAQMS-249_Kaliyaganj%20Municipality.csv",
+      "file": "DXAQMS-249_Kaliyaganj%20Municipality",
+      "filenumber": 221
+    },
+    {
+      "stncode": "DXAQMS-250",
+      "location": "Katwa Collage",
+      "district": "Purba Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-250_Katwa%20Collage.csv",
+      "file": "DXAQMS-250_Katwa%20Collage",
+      "filenumber": 222
+    },
+    {
+      "stncode": "DXAQMS-251",
+      "location": "Guskara Municipality",
+      "district": "Purba Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-251_Guskara%20Municipality.csv",
+      "file": "DXAQMS-251_Guskara%20Municipality",
+      "filenumber": 223
+    },
+    {
+      "stncode": "DXAQMS-252",
+      "location": "Dainhat Municipality",
+      "district": "Purba Bardhaman",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-252_Dainhat%20Municipality.csv",
+      "file": "DXAQMS-252_Dainhat%20Municipality",
+      "filenumber": 224
+    },
+    {
+      "stncode": "DXAQMS-253",
+      "location": "Dhuliyan Municipality",
+      "district": "Murshidabad",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-253_Dhuliyan%20Municipality.csv",
+      "file": "DXAQMS-253_Dhuliyan%20Municipality",
+      "filenumber": 225
+    },
+    {
+      "stncode": "DXAQMS-254",
+      "location": "Tiyakathi Village",
+      "district": "Jhargram",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-254_Tiakati%20Village .csv",
+      "file": "DXAQMS-254_Tiakati%20Village ",
+      "filenumber": 226
+    },
+    {
+      "stncode": "DXAQMS-257",
+      "location": "Buniadpur Municipality",
+      "district": "Dakshin Dinajpur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-257_Buniadpur%20Municipality.csv",
+      "file": "DXAQMS-257_Buniadpur%20Municipality",
+      "filenumber": 227
+    },
+    {
+      "stncode": "DXAQMS-260",
+      "location": "Kurseong Municipality",
+      "district": "Darjeeling",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-260_Kurseong%20Municipality.csv",
+      "file": "DXAQMS-260_Kurseong%20Municipality",
+      "filenumber": 228
+    },
+    {
+      "stncode": "DXAQMS-261",
+      "location": "Kamarhati Municipality",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-261_Kamarhati%20Municipality.csv",
+      "file": "DXAQMS-261_Kamarhati%20Municipality",
+      "filenumber": 229
+    },
+    {
+      "stncode": "DXAQMS-262",
+      "location": "Bhadreswar Municipality",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-262_Bhadreswar%20Municipality.csv",
+      "file": "DXAQMS-262_Bhadreswar%20Municipality",
+      "filenumber": 230
+    },
+    {
+      "stncode": "DXAQMS-263",
+      "location": "Sainthia Municipality",
+      "district": "Birbhum",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-263_Sainthia%20Municipality.csv",
+      "file": "DXAQMS-263_Sainthia%20Municipality",
+      "filenumber": 231
+    },
+    {
+      "stncode": "DXAQMS-264",
+      "location": "Bolpur Municipality",
+      "district": "Birbhum",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-264_Bolpur%20Municipality.csv",
+      "file": "DXAQMS-264_Bolpur%20Municipality",
+      "filenumber": 232
+    },
+    {
+      "stncode": "DXAQMS-265",
+      "location": "Dubrajpur Municipality",
+      "district": "Birbhum",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-265_Dubrajpur%20Municipality.csv",
+      "file": "DXAQMS-265_Dubrajpur%20Municipality",
+      "filenumber": 233
+    },
+    {
+      "stncode": "DXAQMS-266",
+      "location": "Nabagram Amar Chand Kundu College",
+      "district": "Murshidabad",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-266_Nabagram%20Amar%20Chand%20Kundu%20College.csv",
+      "file": "DXAQMS-266_Nabagram%20Amar%20Chand%20Kundu%20College",
+      "filenumber": 234
+    },
+    {
+      "stncode": "DXAQMS-268",
+      "location": "Jadavpur University",
+      "district": "Kolkata",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-268_Jadavpur%20University.csv",
+      "file": "DXAQMS-268_Jadavpur%20University",
+      "filenumber": 235
+    },
+    {
+      "stncode": "DXAQMS-269",
+      "location": "Santipur Municipality",
+      "district": "Nadia",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-269_Santipur%20Municipality.csv",
+      "file": "DXAQMS-269_Santipur%20Municipality",
+      "filenumber": 236
+    },
+    {
+      "stncode": "DXAQMS-271",
+      "location": "Mathabhanga Municipality",
+      "district": "Coochbehar",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-271_Mathabhanga%20Municipality.csv",
+      "file": "DXAQMS-271_Mathabhanga%20Municipality",
+      "filenumber": 237
+    },
+    {
+      "stncode": "DXAQMS-272",
+      "location": "Contai Municipality",
+      "district": "Purba Medinipur",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-272_Contai%20Municipality.csv",
+      "file": "DXAQMS-272_Contai%20Municipality",
+      "filenumber": 238
+    },
+    {
+      "stncode": "DXAQMS-273",
+      "location": "Jayanagar Municipality",
+      "district": "South 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-273_Jaynagar%20%20Municipality.csv",
+      "file": "DXAQMS-273_Jaynagar%20%20Municipality",
+      "filenumber": 239
+    },
+    {
+      "stncode": "DXAQMS-275",
+      "location": "Paschim Khilkapur G.P. (Algaria)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-275_Paschim%20Khilkapur%20G.P.%20%28Algaria%29.csv",
+      "file": "DXAQMS-275_Paschim%20Khilkapur%20G.P.%20%28Algaria%29",
+      "filenumber": 240
+    },
+    {
+      "stncode": "DXAQMS-276",
+      "location": "Duttapukur-II G.P.",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-276_Duttapukur-II%20G.P..csv",
+      "file": "DXAQMS-276_Duttapukur-II%20G.P.",
+      "filenumber": 241
+    },
+    {
+      "stncode": "DXAQMS-277",
+      "location": "Paschim Khilkapur G.P. (Chaturia)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-277_Paschim%20Khilkapur%20G.P.%20%28Chaturia%29.csv",
+      "file": "DXAQMS-277_Paschim%20Khilkapur%20G.P.%20%28Chaturia%29",
+      "filenumber": 242
+    },
+    {
+      "stncode": "DXAQMS-278",
+      "location": "Chhoto Jagulia G.P. (Bamungachi)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-278_Choto%20Jagulia%20G.P.%20%28Bamungachi%29.csv",
+      "file": "DXAQMS-278_Choto%20Jagulia%20G.P.%20%28Bamungachi%29",
+      "filenumber": 243
+    },
+    {
+      "stncode": "DXAQMS-279",
+      "location": "Mohanpur G.P.",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-279_Mohanpur%20G.P..csv",
+      "file": "DXAQMS-279_Mohanpur%20G.P.",
+      "filenumber": 244
+    },
+    {
+      "stncode": "DXAQMS-280",
+      "location": "Mohanpur G.P.(Chak Kanthalia)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-280_Mohanpur%20G.P.%28Chak%20Kanthalia%29.csv",
+      "file": "DXAQMS-280_Mohanpur%20G.P.%28Chak%20Kanthalia%29",
+      "filenumber": 245
+    },
+    {
+      "stncode": "DXAQMS-281",
+      "location": "Bilkanda G.P.(Tegharia)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-281_Bilkanda%20G.P.%28Tegharia%29.csv",
+      "file": "DXAQMS-281_Bilkanda%20G.P.%28Tegharia%29",
+      "filenumber": 246
+    },
+    {
+      "stncode": "DXAQMS-282",
+      "location": "Bilkanda G.P.(Talbanda)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-282_Bilkanda%20G.P.%28Talbanda%29.csv",
+      "file": "DXAQMS-282_Bilkanda%20G.P.%28Talbanda%29",
+      "filenumber": 247
+    },
+    {
+      "stncode": "DXAQMS-283",
+      "location": "Mohanpur G.P.(Jafarpur)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-283_Mohanpur%20G.P.%28Jafarpur%29.csv",
+      "file": "DXAQMS-283_Mohanpur%20G.P.%28Jafarpur%29",
+      "filenumber": 248
+    },
+    {
+      "stncode": "DXAQMS-284",
+      "location": "Bilkanda G.P.(Muragachha)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-284_Bilkanda%20G.P.%28Muragachha%29.csv",
+      "file": "DXAQMS-284_Bilkanda%20G.P.%28Muragachha%29",
+      "filenumber": 249
+    },
+    {
+      "stncode": "DXAQMS-285",
+      "location": "Karana Madhabpur",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-285_Karana%20Madhabpur.csv",
+      "file": "DXAQMS-285_Karana%20Madhabpur",
+      "filenumber": 250
+    },
+    {
+      "stncode": "DXAQMS-286",
+      "location": "Bandipur GP, Doperia",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-286_Bandipur%20GP%2C%20Doperia.csv",
+      "file": "DXAQMS-286_Bandipur%20GP%2C%20Doperia",
+      "filenumber": 251
+    },
+    {
+      "stncode": "DXAQMS-287",
+      "location": "Shasan Gram Panchayat",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-287_Shasan%20Gram%20Panchayat.csv",
+      "file": "DXAQMS-287_Shasan%20Gram%20Panchayat",
+      "filenumber": 252
+    },
+    {
+      "stncode": "DXAQMS-288",
+      "location": "Anandanagar Panchayat",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-288_Anandanagar%20Panchayat.csv",
+      "file": "DXAQMS-288_Anandanagar%20Panchayat",
+      "filenumber": 253
+    },
+    {
+      "stncode": "DXAQMS-289",
+      "location": "Bandipur G.P, (Iswaripur)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-289_Bandipur%20G.P%2C%20%28Iswaripur%29.csv",
+      "file": "DXAQMS-289_Bandipur%20G.P%2C%20%28Iswaripur%29",
+      "filenumber": 254
+    },
+    {
+      "stncode": "DXAQMS-290",
+      "location": "ChotoJagulia G.P, (Bazitpur )",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-290_ChotoJagulia%20G.P%2C%20%28Bazitpur%20%29.csv",
+      "file": "DXAQMS-290_ChotoJagulia%20G.P%2C%20%28Bazitpur%20%29",
+      "filenumber": 255
+    },
+    {
+      "stncode": "DXAQMS-291",
+      "location": "Icchapur Nilganj. Taldhoria",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-291_Icchapur%20Nilganj,%20%28Taldhoria%29.csv",
+      "file": "DXAQMS-291_Icchapur%20Nilganj,%20%28Taldhoria%29",
+      "filenumber": 256
+    },
+    {
+      "stncode": "DXAQMS-292",
+      "location": "Pashchim Khilkapur, Maynagadi",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-292_Pashchim%20Khilkapur%2C%20%28Maynagadi%29.csv",
+      "file": "DXAQMS-292_Pashchim%20Khilkapur%2C%20%28Maynagadi%29",
+      "filenumber": 257
+    },
+    {
+      "stncode": "DXAQMS-293",
+      "location": "Kadambagachi G.P. (Piragacha)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-293_Kadambagachi%20G.P.%20%28Piragacha%29.csv",
+      "file": "DXAQMS-293_Kadambagachi%20G.P.%20%28Piragacha%29",
+      "filenumber": 258
+    },
+    {
+      "stncode": "DXAQMS-294",
+      "location": "Kadambagachi G.P. (Chondigori)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-294_Kadambagachi%20G.P.%20%28Chondigori%29.csv",
+      "file": "DXAQMS-294_Kadambagachi%20G.P.%20%28Chondigori%29",
+      "filenumber": 259
+    },
+    {
+      "stncode": "DXAQMS-295",
+      "location": "Ichhapur Nilganj,Sadarpur",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-295_Ichhapur%20Nilganj%2C%20%28Sadarpur%29.csv",
+      "file": "DXAQMS-295_Ichhapur%20Nilganj%2C%20%28Sadarpur%29",
+      "filenumber": 260
+    },
+    {
+      "stncode": "DXAQMS-296",
+      "location": "Choto Jagulia, Bara",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-296_Choto%20Jagulia%2C%20Bara.csv",
+      "file": "DXAQMS-296_Choto%20Jagulia%2C%20Bara",
+      "filenumber": 261
+    },
+    {
+      "stncode": "DXAQMS-297",
+      "location": "Patulia G.P. (Patulia)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-297_Patulia%20G.P.%20%28Patulia%29.csv",
+      "file": "DXAQMS-297_Patulia%20G.P.%20%28Patulia%29",
+      "filenumber": 262
+    },
+    {
+      "stncode": "DXAQMS-298",
+      "location": "Patulia G.P. (Ruiya)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-298_Patulia%20G.P.%20%28Ruiya%29.csv",
+      "file": "DXAQMS-298_Patulia%20G.P.%20%28Ruiya%29",
+      "filenumber": 263
+    },
+    {
+      "stncode": "DXAQMS-299",
+      "location": "Duilya Gram Panchayat",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-299_Dhuliya%20Gram%20Panchayat.csv",
+      "file": "DXAQMS-299_Dhuliya%20Gram%20Panchayat",
+      "filenumber": 264
+    },
+    {
+      "stncode": "DXAQMS-300",
+      "location": "Bilkanda G.P. (Chandpur)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-300_Bilkanda%20G.P.%20%28Chandpur%29.csv",
+      "file": "DXAQMS-300_Bilkanda%20G.P.%20%28Chandpur%29",
+      "filenumber": 265
+    },
+    {
+      "stncode": "DXAQMS-302",
+      "location": "Bilkanda G.P.(Manispota)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-302_Bilkanda%20G.P.%28%20Mahispota%29.csv",
+      "file": "DXAQMS-302_Bilkanda%20G.P.%28%20Mahispota%29",
+      "filenumber": 266
+    },
+    {
+      "stncode": "DXAQMS-303",
+      "location": "Jugberia Mouza",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-303_Jugberia%20Mouza.csv",
+      "file": "DXAQMS-303_Jugberia%20Mouza",
+      "filenumber": 267
+    },
+    {
+      "stncode": "DXAQMS-304",
+      "location": "Icchapur Nilganj.Kapasia",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-304_Icchapur%20Nilganj%2C%20%28Kapasia%29.csv",
+      "file": "DXAQMS-304_Icchapur%20Nilganj%2C%20%28Kapasia%29",
+      "filenumber": 268
+    },
+    {
+      "stncode": "DXAQMS-306",
+      "location": "Chandigarh Rohanda (Banaspol)",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-306_Chandigarh%20Rohanda%20%28Banaspol%29.csv",
+      "file": "DXAQMS-306_Chandigarh%20Rohanda%20%28Banaspol%29",
+      "filenumber": 269
+    },
+    {
+      "stncode": "DXAQMS-307",
+      "location": "Kuberpur Mouza",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-307_Kuberpur%20Mouza.csv",
+      "file": "DXAQMS-307_Kuberpur%20Mouza",
+      "filenumber": 270
+    },
+    {
+      "stncode": "DXAQMS-308",
+      "location": "Khalia mouza",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-308_Khalia%20mouza.csv",
+      "file": "DXAQMS-308_Khalia%20mouza",
+      "filenumber": 271
+    },
+    {
+      "stncode": "DXAQMS-309",
+      "location": "Bally G.P.",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-309_Bally%20G.P..csv",
+      "file": "DXAQMS-309_Bally%20G.P.",
+      "filenumber": 272
+    },
+    {
+      "stncode": "DXAQMS-310",
+      "location": "Rajarhat BDO Office",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-310_Rajarhat%20BDO%20Office.csv",
+      "file": "DXAQMS-310_Rajarhat%20BDO%20Office",
+      "filenumber": 273
+    },
+    {
+      "stncode": "DXAQMS-311",
+      "location": "Kanaipur G.P",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-311_Kanaipur%20G.P.csv",
+      "file": "DXAQMS-311_Kanaipur%20G.P",
+      "filenumber": 274
+    },
+    {
+      "stncode": "DXAQMS-312",
+      "location": "Eksara Mouza",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-312_Eksara%20Mouza.csv",
+      "file": "DXAQMS-312_Eksara%20Mouza",
+      "filenumber": 275
+    },
+    {
+      "stncode": "DXAQMS-313",
+      "location": "Barasat 2 BDO Office",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-313_Barasat%202%20BDO%20Office.csv",
+      "file": "DXAQMS-313_Barasat%202%20BDO%20Office",
+      "filenumber": 276
+    },
+    {
+      "stncode": "DXAQMS-314",
+      "location": "Sarenga G.P",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-314_Sarenga%20G.P.csv",
+      "file": "DXAQMS-314_Sarenga%20G.P",
+      "filenumber": 277
+    },
+    {
+      "stncode": "DXAQMS-315",
+      "location": "Dakshin Rajyadhapur",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-315_Dakshin%20Rajyadhapur.csv",
+      "file": "DXAQMS-315_Dakshin%20Rajyadhapur",
+      "filenumber": 278
+    },
+    {
+      "stncode": "DXAQMS-316",
+      "location": "Nabagram Colony Mouza",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-316_Nabagram%20Colony%20Mouza.csv",
+      "file": "DXAQMS-316_Nabagram%20Colony%20Mouza",
+      "filenumber": 279
+    },
+    {
+      "stncode": "DXAQMS-317",
+      "location": "Pandit Satghora",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-317_Pandit%20Satghora.csv",
+      "file": "DXAQMS-317_Pandit%20Satghora",
+      "filenumber": 280
+    },
+    {
+      "stncode": "DXAQMS-318",
+      "location": "Rishra Mouza",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-318_Rishra%20Mouza.csv",
+      "file": "DXAQMS-318_Rishra%20Mouza",
+      "filenumber": 281
+    },
+    {
+      "stncode": "DXAQMS-319",
+      "location": "Kamranga",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-319_Kamranga.csv",
+      "file": "DXAQMS-319_Kamranga",
+      "filenumber": 282
+    },
+    {
+      "stncode": "DXAQMS-320",
+      "location": "Hatgachha Mouza",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-320_Hatgachha%20Mouza.csv",
+      "file": "DXAQMS-320_Hatgachha%20Mouza",
+      "filenumber": 283
+    },
+    {
+      "stncode": "DXAQMS-321",
+      "location": "Deara Mouza",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-321_Deara%20Mouza.csv",
+      "file": "DXAQMS-321_Deara%20Mouza",
+      "filenumber": 284
+    },
+    {
+      "stncode": "DXAQMS-322",
+      "location": "Rohanda Mouza",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-322_Rohanda%20Mouza.csv",
+      "file": "DXAQMS-322_Rohanda%20Mouza",
+      "filenumber": 285
+    },
+    {
+      "stncode": "DXAQMS-323",
+      "location": "Jhorhat Mouza",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-323_Jhorhat%20Mouza.csv",
+      "file": "DXAQMS-323_Jhorhat%20Mouza",
+      "filenumber": 286
+    },
+    {
+      "stncode": "DXAQMS-324",
+      "location": "Chak Radhadasi Mouza",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-324_Chak%20Radhadasi%20Mouza.csv",
+      "file": "DXAQMS-324_Chak%20Radhadasi%20Mouza",
+      "filenumber": 287
+    },
+    {
+      "stncode": "DXAQMS-325",
+      "location": "Rekjuani Mouza",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-325_Rekjuani%20Mouza.csv",
+      "file": "DXAQMS-325_Rekjuani%20Mouza",
+      "filenumber": 288
+    },
+    {
+      "stncode": "DXAQMS-326",
+      "location": "Ghoramara Mouza",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-326_Ghoramara%20Mouza.csv",
+      "file": "DXAQMS-326_Ghoramara%20Mouza",
+      "filenumber": 289
+    },
+    {
+      "stncode": "DXAQMS-327",
+      "location": "Domnagar Mouza",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-327_Domnagar%20Mouza.csv",
+      "file": "DXAQMS-327_Domnagar%20Mouza",
+      "filenumber": 290
+    },
+    {
+      "stncode": "DXAQMS-328",
+      "location": "Sankrail Mouza",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-328_Sankrail%20Mouza.csv",
+      "file": "DXAQMS-328_Sankrail%20Mouza",
+      "filenumber": 291
+    },
+    {
+      "stncode": "DXAQMS-329",
+      "location": "Kachua Mouza",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-329_Kachua%20Mouza.csv",
+      "file": "DXAQMS-329_Kachua%20Mouza",
+      "filenumber": 292
+    },
+    {
+      "stncode": "DXAQMS-331",
+      "location": "Bagberia Mouza",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-331_Bagberia%20Mouza.csv",
+      "file": "DXAQMS-331_Bagberia%20Mouza",
+      "filenumber": 293
+    },
+    {
+      "stncode": "DXAQMS-330",
+      "location": "Kayemba Mouza",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-330_Kayemba%20Mouza.csv",
+      "file": "DXAQMS-330_Kayemba%20Mouza",
+      "filenumber": 294
+    },
+    {
+      "stncode": "DXAQMS-332",
+      "location": "Patharghata G.P ",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-332_Patharghata%20G.P%20.csv",
+      "file": "DXAQMS-332_Patharghata%20G.P%20",
+      "filenumber": 295
+    },
+    {
+      "stncode": "DXAQMS-333",
+      "location": "Pearapur Panchayat",
+      "district": "Hooghly",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-333_Pearapur%20Panchayat.csv",
+      "file": "DXAQMS-333_Pearapur%20Panchayat",
+      "filenumber": 296
+    },
+    {
+      "stncode": "DXAQMS-334",
+      "location": "Bilkanda Mouza",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-334_Bilkanda%20Mouza.csv",
+      "file": "DXAQMS-334_Bilkanda%20Mouza",
+      "filenumber": 297
+    },
+    {
+      "stncode": "DXAQMS-335",
+      "location": "Domjur BDO",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-335_Domjur%20BDO.csv",
+      "file": "DXAQMS-335_Domjur%20BDO",
+      "filenumber": 298
+    },
+    {
+      "stncode": "DXAQMS-336",
+      "location": "Uttar Jhapardaha G.P",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-336_Uttar%20Jhapartdaha%20Mouza%20.csv",
+      "file": "DXAQMS-336_Uttar%20Jhapartdaha%20Mouza%20",
+      "filenumber": 299
+    },
+    {
+      "stncode": "DXAQMS-337",
+      "location": "Banipur -I G.P",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-337_Banipur%20-I%20G.P.csv",
+      "file": "DXAQMS-337_Banipur%20-I%20G.P",
+      "filenumber": 300
+    },
+    {
+      "stncode": "DXAQMS-339",
+      "location": "Bamanghata G.P",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-339_Bamanghata%20G.P.csv",
+      "file": "DXAQMS-339_Bamanghata%20G.P",
+      "filenumber": 301
+    },
+    {
+      "stncode": "DXAQMS-340",
+      "location": "Rajarhat BLRO",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-340_Rajarhat%20BLRO%20Office%20.csv",
+      "file": "DXAQMS-340_Rajarhat%20BLRO%20Office%20",
+      "filenumber": 302
+    },
+    {
+      "stncode": "DXAQMS-341",
+      "location": "Bangore II BDO",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-341_Bhangar%20II%20BDO.csv",
+      "file": "DXAQMS-341_Bhangar%20II%20BDO",
+      "filenumber": 303
+    },
+    {
+      "stncode": "DXAQMS-342",
+      "location": "Polerhat Police Station",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-342_Polerhat%20Police%20Station.csv",
+      "file": "DXAQMS-342_Polerhat%20Police%20Station",
+      "filenumber": 304
+    },
+    {
+      "stncode": "DXAQMS-343",
+      "location": "Kokapur Mouza",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-343_Kokapur%20Mouza.csv",
+      "file": "DXAQMS-343_Kokapur%20Mouza",
+      "filenumber": 305
+    },
+    {
+      "stncode": "DXAQMS-344",
+      "location": "Salap-II",
+      "district": "Howrah",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-344_Salap-II.csv",
+      "file": "DXAQMS-344_Salap-II",
+      "filenumber": 306
+    },
+    {
+      "stncode": "DXAQMS-345",
+      "location": "Choto Jaguliya Mouza",
+      "district": "North 24 Pgs.",
+      "cdn_url": "http://wbpcb-aqms-july-cdn.s3-website.ap-south-1.amazonaws.com/DXAQMS-345_Choto%20Jaguliya%20Mouza.csv",
+      "file": "DXAQMS-345_Choto%20Jaguliya%20Mouza",
+      "filenumber": 307
+    }
+  ]
+}
