@@ -1,0 +1,304 @@
+---
+title: "WBPCB Data"
+author: "Rahul Konar"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Read #WBPCB_OFFICE_SaltLake_AQMS_Data
+```{r}
+my_dat<-read.csv("D:\\ISI\\Semester 6 B.Stat\\DXAQMS-1_WBPCB Office, Saltlake.csv",header=TRUE)
+```
+
+#Histogram of PM10 conc.
+```{r}
+hist(my_dat$pm10)
+```
+
+
+#Fit a regression on temp and humidity
+
+```{r}
+model<-lm(pm10~pm25,data=my_dat)
+summary(model)
+```
+
+
+```{r}
+model<-lm(pm10~pm25+ext_temp+ext_humi+so2+no2,data=my_dat)
+summary(model)
+```
+
+
+```{r}
+model<-lm(pm10~so2+no2+ext_humi+ext_temp, data = my_dat)
+summary(model)
+```
+
+```{r}
+model<-lm(pm10~pm25+so2, data = my_dat)
+summary(model)
+```
+
+```{r}
+model<-lm(pm10~ext_temp, data = my_dat)
+summary(model)
+```
+
+```{r}
+model<-lm(pm10~ext_humi, data = my_dat)
+summary(model)
+```
+```{r}
+model<-lm(pm10~so2+pm25,data=my_dat)
+summary(model)
+
+```
+
+```{r}
+my_dat$time <- as.POSIXct(
+  paste(my_dat$date, my_dat$hour),
+  format = "%Y-%m-%d %H",
+  tz = "Asia/Kolkata"
+)
+plot(my_dat$time, my_dat$pm25,
+     type = "l",
+     xlab = "Time",
+     ylab = "PM2.5",
+     main = "Hourly PM2.5 Time Series")
+```
+
+```{r}
+library(tseries)
+library(lubridate)
+library(dplyr)
+library(urca)
+my_dat<-my_dat %>%
+  mutate(
+    date = ymd(my_dat$date),
+    datetime = date+hours(my_dat$hour)
+  )%>%
+  arrange(datetime)
+df_pm25<-my_dat %>%
+  dplyr::select(ext_temp,pm25,pm10,so2,no2,ext_humi) %>%
+  na.omit()
+adf_temp<-ur.df(df_pm25$ext_temp,type="trend",lags=27) #27
+summary(adf_temp)
+adf_pm25<-ur.df(df_pm25$pm25,type="trend",lags=24)  #24
+summary(adf_pm25)
+adf_pm10<-ur.df(df_pm25$pm10, type = "trend" , lags = 31) #31
+summary(adf_pm10)
+adf_so2<-ur.df(df_pm25$so2, type = "trend", lags = 26)
+summary(adf_so2)
+adf_no2<-ur.df(df_pm25$no2, type= "trend", lags =28) #28
+summary(adf_no2)
+adf_ext_humi<-ur.df(df_pm25$ext_humi, type = "trend", lags=26) #26
+summary(adf_ext_humi)
+```
+
+
+For "lag+trend" model: \[\delta y_t = a_0 + \gamma y_{t-1} + a_2t + e_t\]  (Enders p.208)\\
+The hypotheses:\\
+$\tau :\gamma=0$\\
+$\phi_3: \gamma = a_2 = 0$\\
+$\phi_2: a_0 = \gamma = a_2 = 0$\\
+We test all hypotheses at $5\%$ level.
+
+```{r}
+res<-residuals(adf_temp@testreg)
+acf(res)
+Box.test(res,lag=27,type="Ljung-Box")
+```
+
+
+
+The resulting ACF plot of residuals shows that AIC is not sufficient for choosing the lag order. ADF test validity depends on residuals being roughly uncorrelated.
+
+```{r}
+res2<-residuals(adf_pm25@testreg)
+acf(res2)
+```
+
+```{r}
+res3<-residuals(adf_pm10@testreg)
+acf(res3)
+```
+
+```{r}
+res4<-residuals(adf_so2@testreg)
+acf(res4)
+```
+
+```{r}
+res5<-residuals(adf_no2@testreg)
+acf(res5)
+```
+```{r}
+res6<-residuals(adf_ext_humi@testreg)
+acf(res6)
+```
+```{r}
+diff_so2<-diff(my_dat$so2)
+adf_diff_so2<-ur.df(diff_so2,type="trend",lags=25)
+summary(adf_diff_so2)
+res7<-residuals(adf_diff_so2@testreg)
+acf(res7)
+```
+
+
+
+
+
+Apart from $SO_2$ concentration time series, all other time series are stationary (i.e. they have a mean reverting behaviour, random shocks do not persist till infinity). First order differences of $SO_2$ time series is stationary.
+
+Based on results from fitting linear trend with intercept, it seems that the linear trend may not be significant. So we fit the drift model (fitting intercept only, without trend).
+```{r}
+adf_temp2<-ur.df(df_pm25$ext_temp,type="drift",lags=27)
+summary(adf_temp)
+adf_pm25_2<-ur.df(df_pm25$pm25,type="drift",lags=24)
+summary(adf_pm25)
+```
+
+We observe that the conclusions are similar when we fit intercept only for both time series. The temperature time series only rejects the null hypothesis of non-stationarity. There is no evidence of linear trend or intercept. On the other hand, the PM2.5 time series shows evidence against non-stationarity, and has significant intercept. However, the trend effect is negligible.
+
+#VAR Model
+We next fit the VAR model with lag order selected by AIC.
+
+```{r}
+library(dplyr)
+library(vars)
+#conflicts()
+pair_pm25<-my_dat %>%
+  dplyr::select(ext_temp,pm25) %>%
+  na.omit()
+
+lag<-VARselect(pair_pm25,lag.max=48,type="const")
+lag$selection
+
+p<-lag$selection["AIC(n)"]
+p
+var_fit<-VAR(pair_pm25, p = p, type ="const")
+summary(var_fit)
+
+  
+```
+
+# Granger Causality
+```{r}
+g_temp_pm25<-causality(var_fit, cause="ext_temp")
+g_temp_pm25$Granger
+```
+
+```{r}
+g_pm25_temp<-causality(var_fit,cause="pm25")
+g_pm25_temp$Granger
+```
+
+We find that neither PM2.5 has any Granger causal effect on external temperature, and neither does external temperature have any Granger causal effect on PM2.5, for our current model.
+
+Next, we account for the other factors and run mutivariate VAR.
+
+```{r}
+my_dat <- my_dat%>%
+  dplyr::mutate(
+    diff_so2 = c(NA,diff(my_dat$so2))
+  )
+multi_data<-my_dat %>%
+  dplyr::select(ext_temp,pm25,pm10,no2,ext_humi,diff_so2) %>%
+  na.omit()
+lag_sel<-VARselect(multi_data, lag.max=48,type="const")
+lag_sel$selection
+p<-lag_sel$selection["AIC(n)"]
+var_fit_2<-VAR(multi_data, p=p, type = "const")
+summary(var_fit)
+
+```
+
+```{r}
+causality(var_fit_2, cause = "ext_temp")$Granger #Does temp affect PM2.5 after controlling for everything else
+causality(var_fit_2, cause = "pm25")$Granger #Does PM2.5 Granger cause temp after controlling for everything else
+```
+
+#Attempting to make causal relations between other variables.
+
+```{r}
+pair_ext_humi<-my_dat %>%
+  dplyr::select(ext_temp,ext_humi) %>%
+  na.omit()
+
+lag<-VARselect(pair_ext_humi,lag.max=48,type="const")
+lag$selection
+
+p<-lag$selection["AIC(n)"]
+p
+var_fit2<-VAR(pair_ext_humi, p = p, type ="const")
+summary(var_fit2)
+
+```
+
+```{r}
+g_temp_humi<-causality(var_fit2, cause="ext_temp")
+g_temp_humi$Granger
+g_humi_temp<-causality(var_fit2,cause="ext_humi")
+g_humi_temp$Granger
+```
+
+```{r}
+library(dplyr)
+library(vars)
+
+# ── 1. Define variables ──────────────────────────────────────────────────────
+fields <- c("ext_temp", "ext_humi", "so2", "no2", "pm10", "pm25")
+pairs  <- combn(fields, 2, simplify = FALSE)   # all 15 unique pairs
+
+# ── 2. Function: fit VAR + test Granger causality both ways ─────────────────
+granger_pair <- function(var1, var2, data, lag.max = 48, ic = "AIC(n)") {
+  
+  df <- data %>%
+    dplyr::select(all_of(c(var1, var2))) %>%
+    na.omit()
+  
+  # Select optimal lag
+  p <- VARselect(df, lag.max = lag.max, type = "const")$selection[[ic]]
+  
+  # Fit VAR
+  fit <- VAR(df, p = p, type = "const")
+  
+  # Granger causality both directions
+  gc_1_causes_2 <- causality(fit, cause = var1)$Granger  # var1 → var2
+  gc_2_causes_1 <- causality(fit, cause = var2)$Granger  # var2 → var1
+  
+  tibble(
+    cause    = c(var1,  var2),
+    effect   = c(var2,  var1),
+    opt_lag  = p,
+    F_stat   = c(gc_1_causes_2$statistic, gc_2_causes_1$statistic),
+    df1      = c(gc_1_causes_2$parameter[1], gc_2_causes_1$parameter[1]),
+    df2      = c(gc_1_causes_2$parameter[2], gc_2_causes_1$parameter[2]),
+    p_value  = c(gc_1_causes_2$p.value,    gc_2_causes_1$p.value),
+    sig      = symnum(
+                 c(gc_1_causes_2$p.value, gc_2_causes_1$p.value),
+                 cutpoints = c(0, .001, .01, .05, .1, 1),
+                 symbols   = c("***", "**", "*", ".", " ")
+               ) %>% as.character()
+  )
+}
+
+# ── 3. Run over all pairs ────────────────────────────────────────────────────
+granger_results <- purrr::map_dfr(pairs, ~ granger_pair(.x[1], .x[2], my_dat))
+
+# ── 4. View results ──────────────────────────────────────────────────────────
+print(granger_results, n = Inf)
+
+# Optional: filter only significant results (p < 0.05)
+granger_results %>% filter(p_value < 0.05)
+```
+
+```{r}
+readr::write_csv(granger_results, "D:/ISI/Semester 6 B.Stat/Statistics Comprehensive/AQMS_Data/granger_results.csv")
+```
